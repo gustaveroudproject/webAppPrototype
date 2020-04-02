@@ -56,7 +56,7 @@ These are the mock-ups created.
 
 Each of us explored a website, taking notice of features she loves and features she hates. We focused on digital editions and used the [Catalogue of Digital Editions](https://dig-ed-cat.acdh.oeaw.ac.at/) and the [Catalog of Digital Scholarly Editions](http://www.digitale-edition.de/) to find what we were looking for.
 
-#### What we (at least some of us ...) love
+### What we (at least some of us ...) love
 
 **Megamenus**
 
@@ -64,7 +64,7 @@ Example <http://www.e-codices.unifr.ch/en>, About (in the topbar).
 
 Because it stores a lot of information, including the sections in pages; it is well structured, using bold and lines. And it does not disappear when moving the mouse.
 
-![e-codices](/step1/ecodices.png)
+<img src="/step1/ecodices.png" alt="e-codices" width="200"/>
 
 
 **Tradition and innovation**
@@ -73,7 +73,8 @@ Example: New York Times <https://www.nytimes.com/>.
 
 Because it mixed elements similar to the paper edition (font, position of the articles on the page) with the mechanisms of the web (multimodaliry, image carrousel, links)
 
-![New York Times](/step1/nyt.png)
+<img src="/step1/nyt.png" alt="New York Times" width="200"/>
+
 
 
 **Facsimile and transcription**
@@ -82,7 +83,7 @@ Example <https://www.bovary.fr/folio_visu.php?folio=2951&mode=sequence&mot=>.
 
 Juxtaposition ms/transcription, considering spatial organisation and colors.
 
-![Madame Bovary](/step1/bovary.png)
+<img src="/step1/bovary.png" alt="Bovary" width="200"/>
 
 
 **Simple and intuitive navigation, organised information**
@@ -91,7 +92,7 @@ Example <https://gallica.bnf.fr/ark:/12148/btv1b53025633d>
 
 Easy zoom (almost have the feeling of playing), well structured information tab, possibility of show or hide elements easily depending on what the user wants.
 
-![Gallica](/step1/gallica.png)
+<img src="/step1/gallica.png" alt="Gallica" width="200"/>
 
 
 Xanadu
@@ -100,11 +101,11 @@ Example: Présentation (3 mins): <https://www.youtube.com/watch?v=Bqx6li5dbEY>. 
 
 Because it shows the links between the texts. But it is difficult to implement ...
 
-![Xanadu](/step1/xanadu.png)
+<img src="/step1/xanadu.png" alt="Xanadu" width="200"/>
 
 
 
-#### What we (at least some of us ...) hate
+### What we (at least some of us ...) hate
 
 **Changing fonts and font sizes in the same page**
 
