@@ -30,15 +30,14 @@ We also found a lot of information in [UX Booth](https://www.uxbooth.com/), Wiki
 
 These are the mock-ups created.
 
-| ![Homepage](/images/Accueil.png) | ![Homepage and footer](/images/Accueil_MegaMenuPieDePage.png) |
---- | ---
-| ![Parcours](/images/Parcours.png) | ![Search](/images/Recherche.png) |
-| ![Texts](/images/Textes.png) | ![Cueilleurs de pommes à Monneaz 1](/images/CueilleursPommesMonneaz_p1_facs.png) |
-| ![Cueilleurs de pommes à Monneaz 2](/images/CueilleursPommesMonneaz_p2_facs.png) | ![Cueilleurs de pommes à Monneaz 1](/images/CueilleursPommesMonneaz_p1_tx.png) |
-| ![Cueilleurs de pommes à Monneaz 2](/images/CueilleursPommesMonneaz_p2_tx.png) | ![Le repos du cavalier](/images/ReposCavalier_facs.png) |
-| ![Le repos du cavalier](/images/ReposCavalier_tx.png) | ![Préface aux Œuvres complètes de C. Colomb](/images/PrefaceColomb_facs.png) |
-| ![Préface aux Œuvres complètes de C. Colomb](/images/PrefaceColomb_tx.png) | ![Préface aux Œuvres complètes de C. Colomb](/images/PrefaceColomb_comparerFacsimiles.png) |
-| ![Réseau génétique de l'Aveuglement](/images/Reseau_genetique_Aveuglement.png) | 
+ ![Homepage](/images/Accueil.png)  ![Homepage and footer](/images/Accueil_MegaMenuPieDePage.png) 
+ ![Parcours](/images/Parcours.png)  ![Search](/images/Recherche.png) 
+ ![Texts](/images/Textes.png)  ![Cueilleurs de pommes à Monneaz 1](/images/CueilleursPommesMonneaz_p1_facs.png) 
+ ![Cueilleurs de pommes à Monneaz 2](/images/CueilleursPommesMonneaz_p2_facs.png)  ![Cueilleurs de pommes à Monneaz 1](/images/CueilleursPommesMonneaz_p1_tx.png) 
+ ![Cueilleurs de pommes à Monneaz 2](/images/CueilleursPommesMonneaz_p2_tx.png)  ![Le repos du cavalier](/images/ReposCavalier_facs.png) 
+ ![Le repos du cavalier](/images/ReposCavalier_tx.png)  ![Préface aux Œuvres complètes de C. Colomb](/images/PrefaceColomb_facs.png) 
+ ![Préface aux Œuvres complètes de C. Colomb](/images/PrefaceColomb_tx.png)  ![Préface aux Œuvres complètes de C. Colomb](/images/PrefaceColomb_comparerFacsimiles.png) 
+ ![Réseau génétique de l'Aveuglement](/images/Reseau_genetique_Aveuglement.png)  
 
 ---
 
