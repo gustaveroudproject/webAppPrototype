@@ -8,6 +8,16 @@ The prototype was completed in 2018. We knew that, before the end of the project
 
 In this report the results are shown first and, afterwards, the entire process is presented. Some parts of the report are in English and some are in French.
 
+## Table of contents
+
+- [References](#References)
+- [Results](#Results)
+- [Step 1. Analyse what already exists](#step-1-analyse-what-already-exist)
+- [Step 2. Imagine the final users and create *proto-personae*](#step-2-imagine-the-final-users-and-create-proto-personae)
+- [Step 3. Stories and tasks](#step-3-stories-and-tasks)
+- [Step 4. Content, functionalities and sitemap](#step-4-content-functionalities-and-sitemap)
+- [Step 5. Mock-ups](#step-5-mock-ups)
+
 
 ## References
 To design a prototype for the web application, we followed the indications in the first part of:
@@ -20,35 +30,35 @@ We also found a lot of information in [UX Booth](https://www.uxbooth.com/), Wiki
 
 These are the mock-ups created.
 
-![Homepage](/images/Accueil.png)
+<img src="/images/Accueil.png" alt="Homepage" width="350px">
 
-![Homepage and footer](/images/Accueil_MegaMenuPieDePage.png)
+<img alt="Homepage and footer" src="/images/Accueil_MegaMenuPieDePage.png" width="350px">
 
-![Parcours](/images/Parcours.png)
+<img alt="Parcours" src="/images/Parcours.png" width="350px">
 
-![Search](/images/Recherche.png)
+<img alt="Search" src="/images/Recherche.png" width="350px">
 
-![Texts](/images/Textes.png)
+<img alt="Texts" src="/images/Textes.png" width="350px">
 
-![Cueilleurs de pommes à Monneaz 1](/images/CueilleursPommesMonneaz_p1_facs.png)
+<img alt="Cueilleurs de pommes à Monneaz 1" src="/images/CueilleursPommesMonneaz_p1_facs.png" width="350px">
 
-![Cueilleurs de pommes à Monneaz 2](/images/CueilleursPommesMonneaz_p2_facs.png)
+<img alt="Cueilleurs de pommes à Monneaz 2" src="/images/CueilleursPommesMonneaz_p2_facs.png" width="350px">
 
-![Cueilleurs de pommes à Monneaz 1](/images/CueilleursPommesMonneaz_p1_tx.png)
+<img alt="Cueilleurs de pommes à Monneaz 1" src="/images/CueilleursPommesMonneaz_p1_tx.png" width="350px">
 
-![Cueilleurs de pommes à Monneaz 2](/images/CueilleursPommesMonneaz_p2_tx.png)
+<img alt="Cueilleurs de pommes à Monneaz 2" src="/images/CueilleursPommesMonneaz_p2_tx.png" width="350px">
 
-![Le repos du cavalier](/images/ReposCavalier_facs.png)
+<img alt="Le repos du cavalier" src="/images/ReposCavalier_facs.png" width="350px">
 
-![Le repos du cavalier](/images/ReposCavalier_tx.png)
+<img alt="Le repos du cavalier" src="/images/ReposCavalier_tx.png" width="350px">
 
-![Préface aux Œuvres complètes de C. Colomb](/images/PrefaceColomb_facs.png)
+<img alt="Préface aux Œuvres complètes de C. Colomb" src="/images/PrefaceColomb_facs.png" width="350px">
 
-![Préface aux Œuvres complètes de C. Colomb](/images/PrefaceColomb_tx.png)
+<img alt="Préface aux Œuvres complètes de C. Colomb" src="/images/PrefaceColomb_tx.png" width="350px">
 
-![Préface aux Œuvres complètes de C. Colomb](/images/PrefaceColomb_comparerFacsimiles.png)
+<img alt="Préface aux Œuvres complètes de C. Colomb" src="/images/PrefaceColomb_comparerFacsimiles.png" width="350px">
 
-![Réseau génétique de l'Aveuglement](/images/Reseau_genetique_Aveuglement.png)
+<img alt="Réseau génétique de l'Aveuglement" src="/images/Reseau_genetique_Aveuglement.png" width="350px">
 
 ---
 
