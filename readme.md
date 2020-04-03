@@ -30,35 +30,15 @@ We also found a lot of information in [UX Booth](https://www.uxbooth.com/), Wiki
 
 These are the mock-ups created.
 
-<img src="/images/Accueil.png" alt="Homepage" width="350px">
-
-<img alt="Homepage and footer" src="/images/Accueil_MegaMenuPieDePage.png" width="350px">
-
-<img alt="Parcours" src="/images/Parcours.png" width="350px">
-
-<img alt="Search" src="/images/Recherche.png" width="350px">
-
-<img alt="Texts" src="/images/Textes.png" width="350px">
-
-<img alt="Cueilleurs de pommes à Monneaz 1" src="/images/CueilleursPommesMonneaz_p1_facs.png" width="350px">
-
-<img alt="Cueilleurs de pommes à Monneaz 2" src="/images/CueilleursPommesMonneaz_p2_facs.png" width="350px">
-
-<img alt="Cueilleurs de pommes à Monneaz 1" src="/images/CueilleursPommesMonneaz_p1_tx.png" width="350px">
-
-<img alt="Cueilleurs de pommes à Monneaz 2" src="/images/CueilleursPommesMonneaz_p2_tx.png" width="350px">
-
-<img alt="Le repos du cavalier" src="/images/ReposCavalier_facs.png" width="350px">
-
-<img alt="Le repos du cavalier" src="/images/ReposCavalier_tx.png" width="350px">
-
-<img alt="Préface aux Œuvres complètes de C. Colomb" src="/images/PrefaceColomb_facs.png" width="350px">
-
-<img alt="Préface aux Œuvres complètes de C. Colomb" src="/images/PrefaceColomb_tx.png" width="350px">
-
-<img alt="Préface aux Œuvres complètes de C. Colomb" src="/images/PrefaceColomb_comparerFacsimiles.png" width="350px">
-
-<img alt="Réseau génétique de l'Aveuglement" src="/images/Reseau_genetique_Aveuglement.png" width="350px">
+| ![Homepage](/images/Accueil.png) | ![Homepage and footer](/images/Accueil_MegaMenuPieDePage.png) |
+--- | ---
+| ![Parcours](/images/Parcours.png) | ![Search](/images/Recherche.png) |
+| ![Texts](/images/Textes.png) | ![Cueilleurs de pommes à Monneaz 1](/images/CueilleursPommesMonneaz_p1_facs.png) |
+| ![Cueilleurs de pommes à Monneaz 2](/images/CueilleursPommesMonneaz_p2_facs.png) | ![Cueilleurs de pommes à Monneaz 1](/images/CueilleursPommesMonneaz_p1_tx.png) |
+| ![Cueilleurs de pommes à Monneaz 2](/images/CueilleursPommesMonneaz_p2_tx.png) | ![Le repos du cavalier](/images/ReposCavalier_facs.png) |
+| ![Le repos du cavalier](/images/ReposCavalier_tx.png) | ![Préface aux Œuvres complètes de C. Colomb](/images/PrefaceColomb_facs.png) |
+| ![Préface aux Œuvres complètes de C. Colomb](/images/PrefaceColomb_tx.png) | ![Préface aux Œuvres complètes de C. Colomb](/images/PrefaceColomb_comparerFacsimiles.png) |
+| ![Réseau génétique de l'Aveuglement](/images/Reseau_genetique_Aveuglement.png) | 
 
 ---
 
